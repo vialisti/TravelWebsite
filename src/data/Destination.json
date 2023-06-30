@@ -1,0 +1,26 @@
+[
+	{
+		"image": "../public/assets/1.jpg",
+		"title": "Visiting Komodo Island and Overnighting on a Pleasurable Boat",
+		"rating": 4.5,
+		"location": "Labuan Bajo",
+		"person": "10-12",
+		"price": 1500000
+	},
+    {
+		"image": "../public/assets/2.jpg",
+		"title": "Bromo and Ijen Crater Tour Package - Banyuwangi Tourism",
+		"rating": 4.8,
+		"location": "Malang",
+		"person": "4-8",
+		"price": 750000
+	},
+    {
+		"image": "../public/assets/3.jpg",
+		"title": "Exploring Yogyakarta and Engaging in Exciting Fun Games",
+		"rating": 4.8,
+		"location": "Yogyakarta",
+		"person": "10-12",
+		"price": 500000
+	}
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "icon": "./assets/icon/routing.svg",
+        "text": "A tour guide serves as a knowledgeable companion, offering insights, information, and guidance throughout the journey."
+    },
+    {
+        "icon": "./assets/icon/like-shapes.svg",
+        "text": "Friendly service is a crucial aspect of a tour and travel package, as it plays a significant role in enhancing the overall customer experience."
+    },
+    {
+        "icon": "./assets/icon/car.svg",
+        "text": "Car rental is an essential component of many tour and travel packages, offering convenience, flexibility, and freedom."
+    }
+]
